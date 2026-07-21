@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background: #0B0E14;
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-ink text-cream font-body antialiased;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: #C9A227;
+  color: #0B0E14;
+}
+
+/* Custom thin gold scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0B0E14;
+}
+::-webkit-scrollbar-thumb {
+  background: #3a3222;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #C9A227;
+}
+
+.eyebrow {
+  @apply font-body text-[11px] sm:text-xs uppercase tracking-[0.35em] text-gold/80;
+}
+
+.section-heading {
+  @apply font-display text-4xl sm:text-5xl md:text-6xl font-medium text-cream;
+}
+
+.arabic-text {
+  @apply font-arabic text-3xl sm:text-4xl md:text-5xl leading-relaxed text-gold-light;
+  direction: rtl;
+}
+
+.divider-glow {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #C9A227, transparent);
+}
+
+/* Reduced motion respect */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid #C9A227;
+  outline-offset: 3px;
+}
+
+img {
+  -webkit-user-drag: none;
+}

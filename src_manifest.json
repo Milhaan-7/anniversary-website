@@ -1,0 +1,391 @@
+{
+  "abu": [
+    {
+      "file": "/photos/abu/abu-01.webp",
+      "w": 597,
+      "h": 800
+    },
+    {
+      "file": "/photos/abu/abu-02.webp",
+      "w": 900,
+      "h": 1102
+    },
+    {
+      "file": "/photos/abu/abu-03.webp",
+      "w": 480,
+      "h": 640
+    },
+    {
+      "file": "/photos/abu/abu-04.webp",
+      "w": 480,
+      "h": 640
+    },
+    {
+      "file": "/photos/abu/abu-05.webp",
+      "w": 480,
+      "h": 640
+    },
+    {
+      "file": "/photos/abu/abu-06.webp",
+      "w": 640,
+      "h": 480
+    },
+    {
+      "file": "/photos/abu/abu-07.webp",
+      "w": 480,
+      "h": 640
+    },
+    {
+      "file": "/photos/abu/abu-08.webp",
+      "w": 1200,
+      "h": 1600
+    },
+    {
+      "file": "/photos/abu/abu-09.webp",
+      "w": 640,
+      "h": 960
+    },
+    {
+      "file": "/photos/abu/abu-10.webp",
+      "w": 480,
+      "h": 640
+    },
+    {
+      "file": "/photos/abu/abu-11.webp",
+      "w": 960,
+      "h": 1280
+    },
+    {
+      "file": "/photos/abu/abu-12.webp",
+      "w": 533,
+      "h": 800
+    },
+    {
+      "file": "/photos/abu/abu-13.webp",
+      "w": 1200,
+      "h": 1600
+    },
+    {
+      "file": "/photos/abu/abu-14.webp",
+      "w": 1200,
+      "h": 1600
+    },
+    {
+      "file": "/photos/abu/abu-15.webp",
+      "w": 1200,
+      "h": 1600
+    },
+    {
+      "file": "/photos/abu/abu-16.webp",
+      "w": 1200,
+      "h": 1600
+    },
+    {
+      "file": "/photos/abu/abu-17.webp",
+      "w": 480,
+      "h": 640
+    },
+    {
+      "file": "/photos/abu/abu-18.webp",
+      "w": 720,
+      "h": 1210
+    },
+    {
+      "file": "/photos/abu/abu-19.webp",
+      "w": 633,
+      "h": 1280
+    }
+  ],
+  "saachi": [
+    {
+      "file": "/photos/saachi/saachi-01.webp",
+      "w": 818,
+      "h": 698
+    },
+    {
+      "file": "/photos/saachi/saachi-02.webp",
+      "w": 1600,
+      "h": 1200
+    },
+    {
+      "file": "/photos/saachi/saachi-03.webp",
+      "w": 697,
+      "h": 628
+    },
+    {
+      "file": "/photos/saachi/saachi-04.webp",
+      "w": 1204,
+      "h": 1600
+    },
+    {
+      "file": "/photos/saachi/saachi-05.webp",
+      "w": 800,
+      "h": 1600
+    },
+    {
+      "file": "/photos/saachi/saachi-06.webp",
+      "w": 1200,
+      "h": 1600
+    },
+    {
+      "file": "/photos/saachi/saachi-07.webp",
+      "w": 1200,
+      "h": 1600
+    },
+    {
+      "file": "/photos/saachi/saachi-08.webp",
+      "w": 1080,
+      "h": 1440
+    },
+    {
+      "file": "/photos/saachi/saachi-09.webp",
+      "w": 1600,
+      "h": 1200
+    },
+    {
+      "file": "/photos/saachi/saachi-10.webp",
+      "w": 1080,
+      "h": 1440
+    },
+    {
+      "file": "/photos/saachi/saachi-11.webp",
+      "w": 1200,
+      "h": 1600
+    },
+    {
+      "file": "/photos/saachi/saachi-12.webp",
+      "w": 1080,
+      "h": 1440
+    },
+    {
+      "file": "/photos/saachi/saachi-13.webp",
+      "w": 975,
+      "h": 1600
+    },
+    {
+      "file": "/photos/saachi/saachi-14.webp",
+      "w": 800,
+      "h": 600
+    },
+    {
+      "file": "/photos/saachi/saachi-15.webp",
+      "w": 972,
+      "h": 1296
+    }
+  ],
+  "together": [
+    {
+      "file": "/photos/together/together-01.webp",
+      "w": 1204,
+      "h": 1600
+    },
+    {
+      "file": "/photos/together/together-02.webp",
+      "w": 1599,
+      "h": 1200
+    },
+    {
+      "file": "/photos/together/together-03.webp",
+      "w": 1599,
+      "h": 1200
+    },
+    {
+      "file": "/photos/together/together-04.webp",
+      "w": 1599,
+      "h": 1200
+    },
+    {
+      "file": "/photos/together/together-05.webp",
+      "w": 1200,
+      "h": 1600
+    },
+    {
+      "file": "/photos/together/together-06.webp",
+      "w": 800,
+      "h": 1600
+    },
+    {
+      "file": "/photos/together/together-07.webp",
+      "w": 1296,
+      "h": 972
+    },
+    {
+      "file": "/photos/together/together-08.webp",
+      "w": 1296,
+      "h": 972
+    },
+    {
+      "file": "/photos/together/together-09.webp",
+      "w": 972,
+      "h": 1296
+    },
+    {
+      "file": "/photos/together/together-10.webp",
+      "w": 480,
+      "h": 640
+    },
+    {
+      "file": "/photos/together/together-11.webp",
+      "w": 960,
+      "h": 1280
+    },
+    {
+      "file": "/photos/together/together-12.webp",
+      "w": 960,
+      "h": 1280
+    },
+    {
+      "file": "/photos/together/together-13.webp",
+      "w": 1599,
+      "h": 1200
+    },
+    {
+      "file": "/photos/together/together-14.webp",
+      "w": 480,
+      "h": 640
+    }
+  ],
+  "best": [
+    {
+      "file": "/photos/best/best-01.webp",
+      "w": 1600,
+      "h": 1166
+    },
+    {
+      "file": "/photos/best/best-02.webp",
+      "w": 1599,
+      "h": 1200
+    },
+    {
+      "file": "/photos/best/best-03.webp",
+      "w": 1200,
+      "h": 1600
+    },
+    {
+      "file": "/photos/best/best-04.webp",
+      "w": 480,
+      "h": 640
+    },
+    {
+      "file": "/photos/best/best-05.webp",
+      "w": 480,
+      "h": 640
+    },
+    {
+      "file": "/photos/best/best-06.webp",
+      "w": 960,
+      "h": 1280
+    },
+    {
+      "file": "/photos/best/best-07.webp",
+      "w": 1200,
+      "h": 1600
+    },
+    {
+      "file": "/photos/best/best-08.webp",
+      "w": 1296,
+      "h": 972
+    }
+  ],
+  "childhood": [
+    {
+      "file": "/photos/childhood/childhood-01.webp",
+      "w": 1440,
+      "h": 1080
+    },
+    {
+      "file": "/photos/childhood/childhood-02.webp",
+      "w": 1080,
+      "h": 602
+    },
+    {
+      "file": "/photos/childhood/childhood-03.webp",
+      "w": 1440,
+      "h": 1080
+    },
+    {
+      "file": "/photos/childhood/childhood-04.webp",
+      "w": 720,
+      "h": 1600
+    },
+    {
+      "file": "/photos/childhood/childhood-05.webp",
+      "w": 1600,
+      "h": 1200
+    },
+    {
+      "file": "/photos/childhood/childhood-06.webp",
+      "w": 1560,
+      "h": 1560
+    }
+  ],
+  "family": [
+    {
+      "file": "/photos/family/family-01.webp",
+      "w": 1600,
+      "h": 1169
+    },
+    {
+      "file": "/photos/family/family-02.webp",
+      "w": 1280,
+      "h": 1280
+    },
+    {
+      "file": "/photos/family/family-03.webp",
+      "w": 1600,
+      "h": 1200
+    },
+    {
+      "file": "/photos/family/family-04.webp",
+      "w": 1600,
+      "h": 1200
+    },
+    {
+      "file": "/photos/family/family-05.webp",
+      "w": 1200,
+      "h": 1600
+    },
+    {
+      "file": "/photos/family/family-06.webp",
+      "w": 1200,
+      "h": 1600
+    }
+  ],
+  "travel": [
+    {
+      "file": "/photos/travel/travel-01.webp",
+      "w": 1074,
+      "h": 1548
+    },
+    {
+      "file": "/photos/travel/travel-02.webp",
+      "w": 1280,
+      "h": 918
+    },
+    {
+      "file": "/photos/travel/travel-03.webp",
+      "w": 1266,
+      "h": 722
+    },
+    {
+      "file": "/photos/travel/travel-04.webp",
+      "w": 1600,
+      "h": 816
+    },
+    {
+      "file": "/photos/travel/travel-05.webp",
+      "w": 1122,
+      "h": 576
+    },
+    {
+      "file": "/photos/travel/travel-06.webp",
+      "w": 1600,
+      "h": 1081
+    },
+    {
+      "file": "/photos/travel/travel-07.webp",
+      "w": 1600,
+      "h": 1108
+    }
+  ]
+}
